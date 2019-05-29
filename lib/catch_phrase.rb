@@ -1,5 +1,5 @@
 def catch_phrase()
-  puts phrase
+  puts ""
 end
 
 def rescue_princess_pearch
