@@ -1,7 +1,3 @@
-def catch_phrase()
-  puts ""
-end
-
-def rescue_princess_pearch
-  puts
+def catch_phrase(phrase)
+  phrase = "It's-a me, Mario!"
 end
